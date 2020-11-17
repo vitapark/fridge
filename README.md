@@ -19,6 +19,7 @@
 FridgeDao도 Join을 사용해서 쿼리를 합쳐 구현하면 더 깔끔해보일 것 같다.
 
 ## JavaDoc API 링크 
+[API로!](https://vitapark.github.io/fridge/Fridge/doc/index.html)
 
 ## 시연동영상(유튜브) 링크 
 [![Watch the video](https://img.youtube.com/vi/pf8bimuDb8I/hqdefault.jpg)](https://youtu.be/pf8bimuDb8I)
